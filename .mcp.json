@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mcp-atlassian": {
+      "command": "/home/hfeng1/mcp-atlassian/.venv/bin/mcp-atlassian",
+      "args": ["--env-file", "/home/hfeng1/mcp-atlassian/.env"],
+      "env": {}
+    }
+  }
+}
